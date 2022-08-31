@@ -29,4 +29,6 @@
     <string name="tanggal_dipilih">Tanggal dipilih</string>
     <string name="datepicker">Tanggal Lahir</string>
     <string name="tangggal_lahir">Tangggal Lahir</string>
+    <string name="assignment_2">Assignment 2</string>
+    <string name="place_holder">""</string>
 </resources>

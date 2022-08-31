@@ -7,6 +7,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 
+import com.rifara.siklushidup.assignment_dua.CounterHomework;
 import com.rifara.siklushidup.assignment_satu.LifeCycleActivity;
 import com.rifara.siklushidup.R;
 import com.rifara.siklushidup.intent.explicit.ExplicitActivity;
@@ -31,6 +32,9 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
 
         Button sesiEnamButton = findViewById(R.id.sesiEnamButton);
         sesiEnamButton.setOnClickListener(this);
+
+        Button assignment2Btn = findViewById(R.id.assignment2Btn);
+        assignment2Btn.setOnClickListener(this);
     }
 
     @Override
@@ -53,6 +57,11 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
         else if (v.getId() == R.id.sesiEnamButton) {
             Intent moveIntent4 = new Intent(HomeActivity.this, FormAssignment.class);
             startActivity(moveIntent4);
+        }
+
+        else if (v.getId() == R.id.assignment2Btn) {
+            Intent moveIntent5 = new Intent(HomeActivity.this, CounterHomework.class);
+            startActivity(moveIntent5);
         }
 
     }
