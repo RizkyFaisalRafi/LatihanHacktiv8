@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Latihan Hacktiv8</string>
+    <string name="komentar">Komentar …</string>
+    <string name="button1">Explicit Button</string>
+    <string name="button2">Implicit Button</string>
+    <string name="move_activity">Move To Activity 2</string>
+    <string name="data_input">data input</string>
+    <string name="result_submit">Result Submit</string>
+    <string name="nama_lengkap">Nama Lengkap</string>
+    <string name="alamat">Alamat</string>
+    <string name="jenis_kelamin">Jenis Kelamin</string>
+    <string name="umur">Umur</string>
+    <string name="universitas">Universitas</string>
+    <string name="jurusan">Jurusan</string>
+    <string name="pindah_activity">Pindah Activity</string>
+    <string name="pindah_activity_dengan_data">Pindah Activity Dengan Data</string>
+    <string name="input_nama_lengkap">Input Nama Lengkap</string>
+    <string name="pindah_activity_dengan_data_melalui_inputan">Pindah Activity Dengan Data Melalui Inputan</string>
+    <string name="form_registrasi">Form Registrasi</string>
+    <string name="submit">Submit</string>
+    <string name="assignment_1">Assignment 1</string>
+    <string name="explicit_button">Explicit Button</string>
+    <string name="implicit_button">Implicit Button</string>
+    <string name="assignment_sesi_6">Assignment Sesi 6</string>
+    <string name="menuju_ke_telephone">Menuju ke Telephone</string>
+    <string name="menuju_ke_halaman_web">Menuju ke Halaman Web</string>
+    <string name="menuju_ke_gmail">Menuju ke Gmail</string>
+    <string name="menuju_ke_google_calendar">Menuju ke Google Calendar</string>
+    <string name="tanggal_dipilih">Tanggal dipilih</string>
+    <string name="datepicker">Tanggal Lahir</string>
+    <string name="tangggal_lahir">Tangggal Lahir</string>
+</resources>
