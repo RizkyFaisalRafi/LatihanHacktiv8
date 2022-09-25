@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="PlusButtons">
+        <item name="android:src">@drawable/ic_plus</item>
+        <item name="android:contentDescription">@string/button_increase</item>
+    </style>
+
+    <style name="MinusButtons">
+        <item name="android:src">@drawable/ic_minus2</item>
+        <item name="android:contentDescription">@string/button_decrease</item>
+    </style>
+
+    <style name="ScoreText">
+        <item name="android:textAppearance">@style/TextAppearance.AppCompat.Headline</item>
+    </style>
+</resources>

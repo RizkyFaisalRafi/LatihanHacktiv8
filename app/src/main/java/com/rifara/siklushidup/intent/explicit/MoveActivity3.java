@@ -17,7 +17,5 @@ public class MoveActivity3 extends AppCompatActivity {
         TextView nilaiTV = findViewById(R.id.input);
         Bundle data = getIntent().getExtras(); // Mengambil extras yang dikirim tadi
         nilaiTV.setText(data.getString("namaLengkap")); // Dengan Inputan
-
-
     }
 }

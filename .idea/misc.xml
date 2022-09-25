@@ -3,23 +3,52 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/1. BELAJAR/15. Java Kampus Merdeka/Sesi 5/SiklusHidup/app/src/main/res/drawable/button.xml" value="0.229" />
+        <entry key="..\:/1. BELAJAR/15. Java Kampus Merdeka/Sesi 5/SiklusHidup/app/src/main/res/drawable/button_pressed.xml" value="0.227" />
+        <entry key="..\:/1. BELAJAR/15. Java Kampus Merdeka/Sesi 5/SiklusHidup/app/src/main/res/drawable/custom_button.xml" value="0.2" />
         <entry key="..\:/1. BELAJAR/15. Java Kampus Merdeka/Sesi 5/SiklusHidup/app/src/main/res/drawable/custom_edt_txt.xml" value="0.3665" />
         <entry key="..\:/1. BELAJAR/15. Java Kampus Merdeka/Sesi 5/SiklusHidup/app/src/main/res/drawable/custom_shape.xml" value="0.3675" />
+        <entry key="..\:/1. BELAJAR/15. Java Kampus Merdeka/Sesi 5/SiklusHidup/app/src/main/res/drawable/style.xml" value="0.211" />
+        <entry key="..\:/1. BELAJAR/15. Java Kampus Merdeka/Sesi 5/SiklusHidup/app/src/main/res/layout/activity_constraint_layout.xml" value="0.35260416666666666" />
         <entry key="..\:/1. BELAJAR/15. Java Kampus Merdeka/Sesi 5/SiklusHidup/app/src/main/res/layout/activity_counter_homework.xml" value="0.33" />
         <entry key="..\:/1. BELAJAR/15. Java Kampus Merdeka/Sesi 5/SiklusHidup/app/src/main/res/layout/activity_explicit.xml" value="0.2598958333333333" />
         <entry key="..\:/1. BELAJAR/15. Java Kampus Merdeka/Sesi 5/SiklusHidup/app/src/main/res/layout/activity_form_assignment.xml" value="0.25" />
         <entry key="..\:/1. BELAJAR/15. Java Kampus Merdeka/Sesi 5/SiklusHidup/app/src/main/res/layout/activity_halaman_awal.xml" value="0.25" />
+        <entry key="..\:/1. BELAJAR/15. Java Kampus Merdeka/Sesi 5/SiklusHidup/app/src/main/res/layout/activity_home.xml" value="0.33" />
         <entry key="..\:/1. BELAJAR/15. Java Kampus Merdeka/Sesi 5/SiklusHidup/app/src/main/res/layout/activity_implicit.xml" value="0.2598958333333333" />
+        <entry key="..\:/1. BELAJAR/15. Java Kampus Merdeka/Sesi 5/SiklusHidup/app/src/main/res/layout/activity_layout.xml" value="0.25" />
+        <entry key="..\:/1. BELAJAR/15. Java Kampus Merdeka/Sesi 5/SiklusHidup/app/src/main/res/layout/activity_linear_layout.xml" value="0.2598958333333333" />
         <entry key="..\:/1. BELAJAR/15. Java Kampus Merdeka/Sesi 5/SiklusHidup/app/src/main/res/layout/activity_main.xml" value="0.2598958333333333" />
         <entry key="..\:/1. BELAJAR/15. Java Kampus Merdeka/Sesi 5/SiklusHidup/app/src/main/res/layout/activity_main2.xml" value="0.2598958333333333" />
         <entry key="..\:/1. BELAJAR/15. Java Kampus Merdeka/Sesi 5/SiklusHidup/app/src/main/res/layout/activity_move.xml" value="0.20416666666666666" />
         <entry key="..\:/1. BELAJAR/15. Java Kampus Merdeka/Sesi 5/SiklusHidup/app/src/main/res/layout/activity_move1.xml" value="0.2598958333333333" />
         <entry key="..\:/1. BELAJAR/15. Java Kampus Merdeka/Sesi 5/SiklusHidup/app/src/main/res/layout/activity_move2.xml" value="0.36666666666666664" />
         <entry key="..\:/1. BELAJAR/15. Java Kampus Merdeka/Sesi 5/SiklusHidup/app/src/main/res/layout/activity_move3.xml" value="0.2598958333333333" />
+        <entry key="..\:/1. BELAJAR/15. Java Kampus Merdeka/Sesi 5/SiklusHidup/app/src/main/res/layout/activity_relative_layout.xml" value="0.22" />
         <entry key="..\:/1. BELAJAR/15. Java Kampus Merdeka/Sesi 5/SiklusHidup/app/src/main/res/layout/activity_submit.xml" value="0.2598958333333333" />
         <entry key="..\:/1. BELAJAR/15. Java Kampus Merdeka/Sesi 5/SiklusHidup/app/src/main/res/layout/intent_activity.xml" value="0.22" />
+        <entry key="..\:/1. BELAJAR/15. Java Kampus Merdeka/SiklusHidup/app/src/main/res/drawable-v24/ic_delete.xml" value="0.244" />
+        <entry key="..\:/1. BELAJAR/15. Java Kampus Merdeka/SiklusHidup/app/src/main/res/drawable/custom_edt_txt.xml" value="0.196" />
         <entry key="..\:/1. BELAJAR/15. Java Kampus Merdeka/SiklusHidup/app/src/main/res/drawable/custom_shape.xml" value="0.17" />
+        <entry key="..\:/1. BELAJAR/15. Java Kampus Merdeka/SiklusHidup/app/src/main/res/drawable/ic_launcher_background.xml" value="0.166" />
+        <entry key="..\:/1. BELAJAR/15. Java Kampus Merdeka/SiklusHidup/app/src/main/res/drawable/ic_minus.xml" value="0.195" />
+        <entry key="..\:/1. BELAJAR/15. Java Kampus Merdeka/SiklusHidup/app/src/main/res/layout/activity_counter_homework.xml" value="0.25" />
+        <entry key="..\:/1. BELAJAR/15. Java Kampus Merdeka/SiklusHidup/app/src/main/res/layout/activity_detail_club.xml" value="0.25" />
+        <entry key="..\:/1. BELAJAR/15. Java Kampus Merdeka/SiklusHidup/app/src/main/res/layout/activity_explicit.xml" value="0.36666666666666664" />
+        <entry key="..\:/1. BELAJAR/15. Java Kampus Merdeka/SiklusHidup/app/src/main/res/layout/activity_home.xml" value="0.36666666666666664" />
         <entry key="..\:/1. BELAJAR/15. Java Kampus Merdeka/SiklusHidup/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/1. BELAJAR/15. Java Kampus Merdeka/SiklusHidup/app/src/main/res/layout/activity_main_background_process.xml" value="0.36666666666666664" />
+        <entry key="..\:/1. BELAJAR/15. Java Kampus Merdeka/SiklusHidup/app/src/main/res/layout/activity_main_crud.xml" value="0.36666666666666664" />
+        <entry key="..\:/1. BELAJAR/15. Java Kampus Merdeka/SiklusHidup/app/src/main/res/layout/activity_main_crud_sqlite.xml" value="0.36666666666666664" />
+        <entry key="..\:/1. BELAJAR/15. Java Kampus Merdeka/SiklusHidup/app/src/main/res/layout/activity_main_recycler_view.xml" value="0.36666666666666664" />
+        <entry key="..\:/1. BELAJAR/15. Java Kampus Merdeka/SiklusHidup/app/src/main/res/layout/activity_main_score_keeper.xml" value="0.18802083333333333" />
+        <entry key="..\:/1. BELAJAR/15. Java Kampus Merdeka/SiklusHidup/app/src/main/res/layout/activity_note_add_update.xml" value="0.36666666666666664" />
+        <entry key="..\:/1. BELAJAR/15. Java Kampus Merdeka/SiklusHidup/app/src/main/res/layout/club_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/1. BELAJAR/15. Java Kampus Merdeka/SiklusHidup/app/src/main/res/layout/country_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/1. BELAJAR/15. Java Kampus Merdeka/SiklusHidup/app/src/main/res/layout/form_country.xml" value="0.36666666666666664" />
+        <entry key="..\:/1. BELAJAR/15. Java Kampus Merdeka/SiklusHidup/app/src/main/res/layout/item_note.xml" value="0.36666666666666664" />
+        <entry key="..\:/1. BELAJAR/15. Java Kampus Merdeka/SiklusHidup/app/src/main/res/menu/main_menu.xml" value="0.33" />
+        <entry key="..\:/1. BELAJAR/15. Java Kampus Merdeka/SiklusHidup/app/src/main/res/menu/menu_form.xml" value="0.36666666666666664" />
       </map>
     </option>
   </component>

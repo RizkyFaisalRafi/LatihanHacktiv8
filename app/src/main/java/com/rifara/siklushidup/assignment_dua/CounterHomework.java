@@ -26,9 +26,8 @@ public class CounterHomework extends AppCompatActivity {
 
         nilai = findViewById(R.id.result_xml2);
         tambah = findViewById(R.id.btn_count_xml2);
-        inputTxt = findViewById(R.id.btn_inputTxt_xml2);
 
-        //        tambah.setOnClickListener(this);
+        inputTxt = findViewById(R.id.inputTxt_xml2);
 
         nilai.setText(String.valueOf(counter));
         tambah.setOnClickListener(new View.OnClickListener() {

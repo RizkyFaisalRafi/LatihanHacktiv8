@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
-    xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
@@ -11,7 +10,7 @@
         android:id="@+id/result_xml2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="0"
+        android:text="@string/_0"
         android:layout_gravity="center"
         android:layout_marginTop="40dp"
         android:textSize="36sp" />
@@ -20,16 +19,16 @@
         android:id="@+id/btn_count_xml2"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="COUNT"
+        android:text="@string/count"
         android:layout_marginTop="18dp"
         android:layout_gravity="center"/>
-    
+
     <EditText
-        android:id="@+id/btn_inputTxt_xml2"
+        android:id="@+id/inputTxt_xml2"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_margin="24dp"
         android:textAlignment="center"
-        android:hint="This is an edit text"/>
+        android:hint="@string/this_is_an_edit_text"/>
 
 </LinearLayout>

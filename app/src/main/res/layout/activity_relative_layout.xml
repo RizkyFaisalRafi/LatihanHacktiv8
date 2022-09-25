@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".layouting.RelativeLayout"
+    android:padding="8dp">
+
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentTop="true"
+        android:text="@string/top" />
+
+    <Button
+        android:id="@+id/button2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_alignParentBottom="true"
+        android:text="@string/bottom" />
+
+    <Button
+        android:id="@+id/button3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentStart="true"
+        android:layout_below="@id/button"
+        android:text="@string/left_below_top" />
+
+    <Button
+        android:id="@+id/button4"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentEnd="true"
+        android:layout_above="@id/button2"
+        android:text="@string/right_above_button" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_margin="24dp"
+        android:layout_height="wrap_content"
+        android:text="@string/menggunakan_relative_layout"
+        android:textAlignment="center"
+        android:textSize="24sp"
+        android:layout_centerVertical="true"/>
+
+</RelativeLayout>
+
+<!-- android:layout_alignParentLeft="true" Dihapus karena mencegah warning agar lebih clean code -->
+<!-- android:layout_alignParentRight="true" Dihapus karena mencegah warning agar lebih clean code -->
