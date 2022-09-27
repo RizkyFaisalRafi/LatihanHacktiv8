@@ -21,6 +21,8 @@ import com.rifara.siklushidup.crud_sqlite.MainActivityCrud;
 import com.rifara.siklushidup.intent.explicit.ExplicitActivity;
 import com.rifara.siklushidup.intent.implicit.ImplicitActivity;
 import com.rifara.siklushidup.layouting.LayoutActivity;
+import com.rifara.siklushidup.parse_data_xml.ParseDataXmlActivity;
+import com.rifara.siklushidup.retrofit.MainActivityJsonParser;
 import com.rifara.siklushidup.score_keeper.MainActivityScoreKeeper;
 import com.rifara.siklushidup.sesi_delapan.MainActivityRecyclerView;
 import com.rifara.siklushidup.sesi_enam.FormAssignment;
@@ -64,6 +66,12 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
 
         Button androidNotification = findViewById(R.id.android_notification);
         androidNotification.setOnClickListener(this);
+
+        Button parseDataXml = findViewById(R.id.parse_data_xml);
+        parseDataXml.setOnClickListener(this);
+
+        Button retrofitBtn = findViewById(R.id.retrofit_list);
+        retrofitBtn.setOnClickListener(this);
 
     }
 
@@ -158,6 +166,16 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
         else if (v.getId() == R.id.android_notification) {
             Intent moveIntent11 = new Intent(HomeActivity.this, MainActivityNotification.class);
             startActivity(moveIntent11);
+        }
+
+        else if (v.getId() == R.id.parse_data_xml) {
+            Intent moveIntent12 = new Intent(HomeActivity.this, ParseDataXmlActivity.class);
+            startActivity(moveIntent12);
+        }
+
+        else if (v.getId() == R.id.retrofit_list) {
+            Intent moveIntent13 = new Intent(HomeActivity.this, MainActivityJsonParser.class);
+            startActivity(moveIntent13);
         }
 
     }

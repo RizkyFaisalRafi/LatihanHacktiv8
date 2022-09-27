@@ -171,6 +171,32 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@id/crud_sqlite" />
 
+        <Button
+            android:id="@+id/parse_data_xml"
+            android:layout_width="match_parent"
+            android:layout_height="52dp"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="32dp"
+            android:text="Parse Data XML"
+            android:textColor="@color/white"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/android_notification" />
+
+        <Button
+            android:id="@+id/retrofit_list"
+            android:layout_width="match_parent"
+            android:layout_height="52dp"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="32dp"
+            android:text="Retrofit List"
+            android:textColor="@color/white"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/parse_data_xml" />
+
     </androidx.constraintlayout.widget.ConstraintLayout>
 
 </ScrollView>
