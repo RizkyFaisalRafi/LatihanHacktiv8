@@ -197,6 +197,19 @@
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@id/parse_data_xml" />
 
+        <Button
+            android:id="@+id/covid_tracker"
+            android:layout_width="match_parent"
+            android:layout_height="52dp"
+            android:layout_marginStart="32dp"
+            android:layout_marginTop="10dp"
+            android:layout_marginEnd="32dp"
+            android:text="Covid Tracker Retrofit"
+            android:textColor="@color/white"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toBottomOf="@id/retrofit_list" />
+
     </androidx.constraintlayout.widget.ConstraintLayout>
 
 </ScrollView>

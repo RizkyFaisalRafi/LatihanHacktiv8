@@ -17,6 +17,7 @@ import com.rifara.siklushidup.assignment_dua.CounterHomework;
 import com.rifara.siklushidup.assignment_satu.LifeCycleActivity;
 import com.rifara.siklushidup.R;
 import com.rifara.siklushidup.background_process.MainActivityBackgroundProcess;
+import com.rifara.siklushidup.covid_tracker.CovidTrackerActivity;
 import com.rifara.siklushidup.crud_sqlite.MainActivityCrud;
 import com.rifara.siklushidup.intent.explicit.ExplicitActivity;
 import com.rifara.siklushidup.intent.implicit.ImplicitActivity;
@@ -72,6 +73,9 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
 
         Button retrofitBtn = findViewById(R.id.retrofit_list);
         retrofitBtn.setOnClickListener(this);
+
+        Button covidTrackerBtn = findViewById(R.id.covid_tracker);
+        covidTrackerBtn.setOnClickListener(this);
 
     }
 
@@ -176,6 +180,11 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
         else if (v.getId() == R.id.retrofit_list) {
             Intent moveIntent13 = new Intent(HomeActivity.this, MainActivityJsonParser.class);
             startActivity(moveIntent13);
+        }
+
+        else if (v.getId() == R.id.covid_tracker) {
+            Intent moveIntent14 = new Intent(HomeActivity.this, CovidTrackerActivity.class);
+            startActivity(moveIntent14);
         }
 
     }
